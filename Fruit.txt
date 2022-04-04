@@ -1,3 +1,6 @@
 Apple
 orange 
 pawpaw
+Guava
+pomegranate
+watermelon 
